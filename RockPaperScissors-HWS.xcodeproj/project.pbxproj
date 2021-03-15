@@ -11,6 +11,7 @@
 		6AA3A64725FFE2DA00696C3A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA3A64625FFE2DA00696C3A /* ContentView.swift */; };
 		6AA3A64925FFE2DB00696C3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AA3A64825FFE2DB00696C3A /* Assets.xcassets */; };
 		6AA3A64C25FFE2DB00696C3A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AA3A64B25FFE2DB00696C3A /* Preview Assets.xcassets */; };
+		6AA3A65525FFE4EE00696C3A /* ToolView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA3A65425FFE4EE00696C3A /* ToolView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		6AA3A64825FFE2DB00696C3A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AA3A64B25FFE2DB00696C3A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6AA3A64D25FFE2DB00696C3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6AA3A65425FFE4EE00696C3A /* ToolView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				6AA3A64425FFE2DA00696C3A /* RockPaperScissors_HWSApp.swift */,
 				6AA3A64625FFE2DA00696C3A /* ContentView.swift */,
+				6AA3A65425FFE4EE00696C3A /* ToolView.swift */,
 				6AA3A64825FFE2DB00696C3A /* Assets.xcassets */,
 				6AA3A64D25FFE2DB00696C3A /* Info.plist */,
 				6AA3A64A25FFE2DB00696C3A /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AA3A64725FFE2DA00696C3A /* ContentView.swift in Sources */,
+				6AA3A65525FFE4EE00696C3A /* ToolView.swift in Sources */,
 				6AA3A64525FFE2DA00696C3A /* RockPaperScissors_HWSApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
